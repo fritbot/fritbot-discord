@@ -1,0 +1,16 @@
+{
+  "name": "fritbot-discord",
+  "version": "0.0.1",
+  "description": "The Angriest Bot",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "guild-commands": "node src/commands.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "14.7.1",
+    "dotenv": "16.0.3"
+  }
+}
